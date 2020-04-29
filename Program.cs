@@ -12,7 +12,11 @@ namespace GitWithTeamsExplorerVS2019
 
             //Thinking of Creating a Branch Locally Then Make it Remote
             //Created A Branch
+            //I am assgng work to prog b pl make own branch
             Console.ReadKey();
+        }
+        public void MadeByB() {
+            //Did my Job
         }
     }
 }
