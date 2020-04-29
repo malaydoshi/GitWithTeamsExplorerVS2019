@@ -16,7 +16,7 @@ namespace GitWithTeamsExplorerVS2019
             Console.ReadKey();
         }
         public void MadeByB() {
-            //Did my Job
+            //Did my Job.
         }
     }
 }
